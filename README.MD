@@ -59,6 +59,5 @@ License
 This project is licensed under the MIT License. See LICENSE for details.
 Note: FFmpeg is licensed under the LGPL/GPL. Ensure compliance when using FFmpeg binaries (see FFmpeg License).
 Contact
-Built by [Your Name]. Feel free to reach out via [your.email@example.com] or open an issue on GitHub for questions or suggestions!
+Built by [Your Name]. Feel free to reach out via hastywrld@gmail.com or open an issue on GitHub for questions or suggestions!
 
-This project was developed as part of a portfolio for undergraduate course applications, demonstrating expertise in Python, AI, and GUI programming.
